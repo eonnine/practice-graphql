@@ -1,2 +1,3 @@
 # myBlog
-SpringBoot, Graphql, React-Apollo, JPA, PostgreSQL
+BackEnd: SpringBoot, Graphql, JPA, PostgreSQL
+FrontEnd: React-Apollo, Hooks, Parcel
